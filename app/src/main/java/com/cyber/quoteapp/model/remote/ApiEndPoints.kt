@@ -1,6 +1,6 @@
-package com.cyber.quoteapp.model
+package com.cyber.quoteapp.model.remote
 
-import io.reactivex.Flowable
+import com.cyber.quoteapp.model.response.Quote
 import io.reactivex.Single
 import retrofit2.http.GET
 
